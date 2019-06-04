@@ -46,8 +46,8 @@
 yarn start
 ```
 ```
-yard build
+yarn build
 ```
 ```
-yard test
+yarn test
 ```
